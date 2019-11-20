@@ -13,7 +13,7 @@ end
 
 def id_generator
   # rturn a hash with a key :id assigned to positive integer
-{id: => 6}
+{id: = 6}
 end
 
 
